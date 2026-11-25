@@ -1,0 +1,10 @@
+chatbot_env/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+.streamlit/secrets.toml

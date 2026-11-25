@@ -1,0 +1,16 @@
+streamlit
+google-genai
+python-dotenv
+bcrypt
+pandas
+openpyxl
+python-pptx
+python-docx
+pypdf
+pillow
+gtts
+plotly
+apscheduler
+streamlit-mic-recorder
+requests
+urllib3
